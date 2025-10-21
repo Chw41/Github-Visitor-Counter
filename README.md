@@ -12,7 +12,7 @@ Replace `<WORKER_NAME>.<SUBDOMAIN>` with your Worker domain.\
 Example for CHW: chw-counter.chw41.workers.dev.
 ```md
 <p align="center">
-  <img src="https://<WORKER_NAME>.<SUBDOMAIN>.workers.dev/?id=Chw41&min=6&color=39ff14&bg=000000&size=42&gap=6&radius=6&v=0000" alt="visitor count"/>
+  <img src="https://<WORKER_NAME>.<SUBDOMAIN>.workers.dev/?id={UserID}&min=6&color=39ff14&bg=000000&size=42&gap=6&radius=6&v=0000" alt="visitor count"/>
 </p>
 ```
 ![image](https://hackmd.io/_uploads/Sy0FCC40ll.png)
