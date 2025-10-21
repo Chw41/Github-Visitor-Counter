@@ -21,7 +21,7 @@ Example for CHW: chw-counter.chw41.workers.dev.
 ### 1. Create a Worker
 - Visit https://dash.cloudflare.com
 - Left sidebar Compute (Workers) → Workers → Create → choose Worker, name it (e.g., chw-counter) → Deploy
-- First-time users will be asked to set a *.workers.dev subdomain (one-time)
+- First-time users will be asked to set a `*.workers.dev` subdomain
 
 ### 2. Create a KV namespace
 - Left sidebar Storage & Databases → KV → Create namespace (e.g., chw-counter)
