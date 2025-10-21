@@ -54,7 +54,7 @@ export default {
 ```
 Change `{User ID}` to your User ID.
 
-## Outcome
+## Outcomes
 - Preview (no increment):
 `https://<WORKER_NAME>.<SUBDOMAIN>.workers.dev/?id={User ID}&min=6&preview=1`
 
@@ -94,7 +94,7 @@ GitHub’s Camo caches images. Changing the v parameter invalidates the cache, c
 `Style`: color, background, box size, gap, radius\
 `v`: cache buster only; change its value to force GitHub to re-fetch the image
 
-## Embed complete ✅
+## Embeded complete ✅
 ![image](https://hackmd.io/_uploads/Sy0FCC40ll.png)
 
 
