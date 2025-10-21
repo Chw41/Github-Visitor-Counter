@@ -45,7 +45,7 @@ export default {
         return new Response("Not Found", { status: 404 });
       }
 
-      const id      = url.searchParams.get("id") || "Chw41";
+      const id      = url.searchParams.get("id") || "{User ID}"; // UserID
       const min     = parseInt(url.searchParams.get("min") || "6", 10);
       const color   = "#" + (url.searchParams.get("color") || "39ff14");
       const bg      = "#" + (url.searchParams.get("bg") || "000000");
